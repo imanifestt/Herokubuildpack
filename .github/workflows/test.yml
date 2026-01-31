@@ -11,3 +11,4 @@ jobs:
     - run: ./bin/detect
     - run: ./bin/compile $PWD
     - run: ./bin/release
+
